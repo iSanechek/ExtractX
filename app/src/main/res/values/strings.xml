@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExtractX</string>
+    <string name="add_url_title">Add url</string>
+    <string name="dialog_enter_url_positive_btn_title">Get info</string>
+    <string name="dialog_enter_url_negative_btn_title">Cancel</string>
+
+    <string name="test_long_text">На большом воздушном шаре - мы твой иос шатали!</string>
+</resources>
